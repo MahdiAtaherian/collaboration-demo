@@ -1,5 +1,5 @@
 Collaboration Demo Project
-Version 1.1
+Version 1.2
 
 Feature description
 This demo helps contributors practice collaboration through issues, pull requests, code reviews, and automated CI checks.

@@ -14,3 +14,5 @@ This project is used to practice Git and GitHub collaboration workflows.
 
 ## CI scope
 The current CI workflow only prints a message. It does not run automated tests.
+## Keeping branches up to date
+Before opening a pull request, update your working branch with the latest changes from main.

@@ -3,3 +3,4 @@ Version 1.0
 
 Feature description
 This demo helps contributors practice collaboration through issues, pull requests, code reviews, and automated CI checks.
+The current CI workflow only prints a message; it does not run automated tests.
